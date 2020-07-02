@@ -1,3 +1,6 @@
+#Estudiante
+###Soto Cabrera Juan Antonio
+
 # mvc simple
 
 Este repositorio se usa para exponer las caracteristicas de php a nivel basico mediante el patron MVC, no pretende ser un framework.

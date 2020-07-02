@@ -8,5 +8,6 @@ return [
     'home' => [
         'logout'
     ],
-    'test' => null
+    'test' => null,
+    'country' => null
 ];
